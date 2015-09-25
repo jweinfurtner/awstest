@@ -1,5 +1,6 @@
 <html>
     <body>
     	<h3>I am an <b>email</b>!!!! ${testParam}</h3>
+    	<img src="https://i.imgur.com/e69n7Hj.jpg" />
     </body>
-</html
+</html>
